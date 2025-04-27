@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [General info] (#general-info)
-- [Features] (#features)
+- General info
+- Features
 
 ## General info
 
