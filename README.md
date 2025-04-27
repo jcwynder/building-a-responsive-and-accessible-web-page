@@ -15,8 +15,8 @@ This assignment includes the following features:
 
 ### 1. Semantic HTML Structure
 
-- Use of semantic HTML elements (<header>, <main>, <section>, <article>, <footer>, etc.) to create a clear and meaningful structure.
-- All content is organized hierarchically using proper headings (<h1>, <h2>, etc.).
+- Use of semantic HTML elements (**header**, **main**, **section**, **article**, **footer**, etc.) to create a clear and meaningful structure.
+- All content is organized hierarchically using proper headings (**h1**, **h2**, etc.).
 
 ### 2. Responsive Design Using Flexbox and Grid
 
