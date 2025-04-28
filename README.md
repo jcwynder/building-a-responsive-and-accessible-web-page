@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-- General info
+- General
+- Illustration
 - Features
 - Setup
 - Usage
@@ -10,6 +11,14 @@
 ## General info
 
 In this assignment, a responsive, multi-sectioned webpage was developed for a fictious company called **Accessible Design Co.**. The assignment demonstrated the ability to create a well-structured, responsive, and accessible web page using the HTML and CSS techniques learned.
+
+## Illustration
+
+![Screenshot one of Accessible Design Co. home page.](./images/ADC1.png)
+
+![Screenshot one of Accessible Design Co. home page.](./images/ADC2.png)
+
+![Screenshot one of Accessible Design Co. home page.](./images/ADC3.png)
 
 ## Features
 
