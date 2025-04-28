@@ -35,3 +35,23 @@ This assignment includes the following features:
 
 - Use of a sufficient contrast ratio against the background.
 - Use of a CSS to style focus states for interactive elements (e.g., links and buttons) to make them visible when navigated with a keyboard.
+
+## Setup
+
+To install Responsive Web Page, follow these steps (using the command line):
+
+1. Clone the repository: https://github.com/jcwynder/building-a-responsive-and-accessible-web-page.git
+2. Navigate to the project directory: **"cd building-a-responsive-and-accessible-web-page"**
+3. Install dependencies: **"npm install"**
+4. Build the project: **"npm run build"**
+5. Start the project: **"npm start"**
+
+## Usage
+
+To use Responsive Web Page, follow these steps (using the command line):
+
+1. Open the project in your favorite code editor.
+2. Modify the source code to fit your needs.
+3. Build the project: **"npm run build"**
+4. Start the project: **"npm start"**
+5. Use the project as desired.
