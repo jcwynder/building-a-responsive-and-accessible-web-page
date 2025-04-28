@@ -4,6 +4,8 @@
 
 - General info
 - Features
+- Setup
+- Usage
 
 ## General info
 
