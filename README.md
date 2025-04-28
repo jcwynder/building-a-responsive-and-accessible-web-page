@@ -15,9 +15,7 @@ In this assignment, a responsive, multi-sectioned webpage was developed for a fi
 ## Illustration
 
 ![Screenshot one of Accessible Design Co. home page.](./images/ADC1.png)
-
 ![Screenshot one of Accessible Design Co. home page.](./images/ADC2.png)
-
 ![Screenshot one of Accessible Design Co. home page.](./images/ADC3.png)
 
 ## Features
